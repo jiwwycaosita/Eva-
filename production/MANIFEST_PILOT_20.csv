@@ -1,0 +1,118 @@
+clip_id,scene_id,shot_id,duration_s,ratio,fps,seed,status,output_path,prompt,negative,style_anchor,camera_anchor,continuity_notes
+C0001,S01,Plan_1_1,15,16:9,24,132041,todo,./renders/S01/C0001.mp4,"CLIP C0001 | 15 seconds | Scene S01 | Shot Plan_1_1
+
+CONTEXT
+Location: Residential backyard, rural Quebec, snow-covered
+Time: Dusk, fading light
+Weather: Clear, cold, windless
+Season: Deep winter
+Lighting: Natural twilight, diffuse gray-blue light, no artificial sources
+
+SUBJECT
+Elements: Black cat (moving subject), wooden fence, bare trees, house facade in background
+Wardrobe/Props: Cat collar barely visible
+Position: Cat enters frame left, moves across yard toward fence right
+
+ACTION (single continuous 15s action)
+A black cat walks slowly across a snow-covered backyard, leaving distinct paw prints. It pauses mid-frame for 3 seconds, looks toward camera, then continues walking. It slips under a wooden fence and disappears from frame right. No human presence. Complete silence except faint wind.
+
+CAMERA
+Type: Wide shot
+Movement: Fixed tripod, no movement
+Speed: N/A (static)
+Angle: Eye level, slightly elevated (1.5m height)
+Focal length equivalent: 35mm
+
+CONTINUITY ANCHORS
+Keep same: House facade, fence structure, snow texture, tree positions
+Direction: Left to right movement
+Mood: Calm, neutral, establishing
+
+STYLE
+Render: Cinematic realism, thriller aesthetic
+Grain: Subtle 35mm film grain
+Color: Cold blue-gray palette, desaturated, high contrast
+Details: High detail on snow crust, cat fur, wood grain
+
+TECHNICAL
+Duration: exactly 15 seconds
+Aspect ratio: 16:9
+Frame rate: 24 fps","No text, no subtitles, no logos, no warped cat, no extra tails, no weather change, no scene cut, no camera movement, no bright colors, no supernatural glow","Cinematic realism | Cold palette | Film grain | High contrast | Thriller aesthetic","Wide shot | Fixed camera | Eye level | 35mm equivalent","Cat exits right - next clip continues tracking"
+C0002,S01,Plan_1_2,15,16:9,24,132042,todo,./renders/S01/C0002.mp4,"CLIP C0002 | 15 seconds | Scene S01 | Shot Plan_1_2
+
+CONTEXT
+Location: Snow-covered garden, footprints visible
+Time: Dusk, slightly darker than previous
+Weather: Clear, cold, very light wind
+Season: Deep winter
+Lighting: Fading twilight, blue hour approaching
+
+SUBJECT
+Elements: Snow surface with partial footprints, garden path, wooden shed corner visible
+Wardrobe/Props: None (environment focus)
+Position: Ground level view, footprints lead from left edge toward center
+
+ACTION (single continuous 15s action)
+Camera slowly pans across snow-covered ground revealing partially covered footprints (cat and possibly human). Wind gently disturbs loose snow on surface. Small snow crystals catch remaining light. Footprints lead toward a garden shed. No movement except wind effect on snow particles.
+
+CAMERA
+Type: Medium shot, ground level
+Movement: Slow pan right
+Speed: Very slow (5 degrees/second)
+Angle: Low angle (30cm height)
+Focal length equivalent: 50mm
+
+CONTINUITY ANCHORS
+Keep same: Snow texture, light quality, temperature feel
+Direction: Pan right following footprint trail
+Mood: Searching, observational
+
+STYLE
+Render: Cinematic realism, thriller aesthetic
+Grain: Subtle 35mm film grain
+Color: Cold blue palette, increasing darkness
+Details: Snow texture, footprint edges, ice crystals
+
+TECHNICAL
+Duration: exactly 15 seconds
+Aspect ratio: 16:9
+Frame rate: 24 fps","No text, no logos, no sudden movements, no animals visible, no scene cut, no bright colors, no warm tones","Cinematic realism | Cold palette | Film grain | High contrast | Thriller aesthetic","Medium shot | Slow pan | Low angle | 50mm equivalent","Follows cat exit - establishes search pattern"
+C0003,S01,Plan_1_3,15,16:9,24,132043,todo,./renders/S01/C0003.mp4,"CLIP C0003 | 15 seconds | Scene S01 | Shot Plan_1_3
+
+CONTEXT
+Location: Path to shed, wooden structure, snow pile
+Time: Dusk, blue hour
+Weather: Clear, cold, light wind audible
+Season: Deep winter
+Lighting: Very dim natural light, shadows deepening
+
+SUBJECT
+Elements: Gloved hand holding flashlight, beam of light sweeping across shed wall and snow
+Wardrobe/Props: Dark glove, metal flashlight, visible breath condensation
+Position: Hand enters from right, flashlight beam sweeps left to right
+
+ACTION (single continuous 15s action)
+A gloved hand holding a flashlight enters frame from right side. The beam sweeps slowly across a wooden shed wall, revealing weathered wood grain and frost. Light continues across snow pile, catching reflective ice crystals. Beam pauses on shed door handle, then continues sweeping. Faint distant cat meow heard off-screen at end.
+
+CAMERA
+Type: Close-up on hand and light beam
+Movement: Fixed, slight handheld shake (realistic)
+Speed: N/A (static camera, moving subject)
+Angle: Eye level
+Focal length equivalent: 50mm
+
+CONTINUITY ANCHORS
+Keep same: Shed structure, snow conditions, sound design (wind base layer)
+Direction: Light sweeps left to right
+Mood: Active searching, slight tension building
+
+STYLE
+Render: Cinematic realism, thriller aesthetic
+Grain: Subtle 35mm film grain
+Color: Cold palette with warm flashlight contrast
+Details: Wood texture, ice reflections, breath vapor
+
+TECHNICAL
+Duration: exactly 15 seconds
+Aspect ratio: 16:9
+Frame rate: 24 fps","No text, no logos, no warped hand anatomy, no scene cut, no bright colors except flashlight, no supernatural elements","Cinematic realism | Cold palette | Film grain | High contrast | Thriller aesthetic","Close-up | Fixed handheld | Eye level | 50mm equivalent","Flashlight established - continues in next tracking shot"
