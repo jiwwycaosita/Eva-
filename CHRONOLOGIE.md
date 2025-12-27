@@ -1,28 +1,15 @@
-# Chronologie canonique — Projet EVA
+# Chronologie narrative
 
-## Ligne temporelle validée
+## Vue d'ensemble temporelle
 
-- **Printemps (année N)**  
-  Eva est vivante.  
-  Séquences de flashback situées AVANT la disparition.
-
-- **Fin été / début automne (année N)**  
-  Eva rédige son journal.  
-  Dernières traces écrites connues.
+- **Été (année N)**  
+  Eva arrive au village. Installation. Premières rencontres (le narrateur, le Maire, l'Institutrice).
 
 - **Automne (année N)**  
-  Disparition d'Eva.
+  Intégration progressive. Relations qui se tissent ou se crispent. Tensions latentes.
 
-- **Hiver (année N)**  
-  Anabelle découvre le journal d'Eva.  
-  La découverte est postérieure à la rédaction.
+- **Hiver (année N → N+1)**  
+  Disparition d'Eva. Hypothèses multiples (départ, fugue, accident). Enquête informelle.
 
-## Règles de cohérence
-
-- La date de rédaction ≠ date de découverte.
-- Aucun élément écrit ou visuel ne peut être postérieur à la disparition sans justification explicite.
-- Les flashbacks doivent être signalés par un marqueur temporel clair.
-
-## Statut
-Chronologie validée — Réalisme strict  
-Décision verrouillée
+- **Printemps (année N+1)**  
+  Dégel. Le chat mène à la découverte du corps d'Eva sous le ponceau. Révélation partielle. Conclusion ouverte.
